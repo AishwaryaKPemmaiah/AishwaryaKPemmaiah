@@ -4,11 +4,14 @@
  <strong>Looking for opportunities as a Data Engineer</strong>
 </p>
 
-### 🌟 Technologies and Tools  
 
 🌱 I’m currently learning **PySpark, PostgreSQL**  
 
 📫 How to reach me: **aishwaryakpemmaiah@gmail.com**  
+
+
+
+### 🌟 Technologies and Tools  
 
 <p align="center">
   <a href="https://git-scm.com/">
