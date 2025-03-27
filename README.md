@@ -4,13 +4,11 @@
  <strong>Looking for opportunities as a Data Engineer</strong>
 </p>
 
-_____________________________________________________________________________________________________________________________
+### 🌟 Technologies and Tools  
 
+🌱 I’m currently learning **PySpark, PostgreSQL**  
 
-
-    🌱 I’m currently learning Pyspark,PostgresSQl
-
-    📫 How to reach me aishwaryakpemmaiah@gmail.com
+📫 How to reach me: **aishwaryakpemmaiah@gmail.com**  
 
 <p align="center">
   <a href="https://git-scm.com/">
@@ -34,26 +32,10 @@ ________________________________________________________________________________
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
   </a>
-
-
   <a href="https://cloud.google.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="50"/>
   </a>
-
-
   <a href="https://aws.amazon.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="55"/>
-  </a>
-  <a href="https://spark.apache.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50"/>
-  </a>
 </p>
-
- 
-
-
-
-
