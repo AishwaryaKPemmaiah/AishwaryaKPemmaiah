@@ -1,9 +1,8 @@
 <p align="center">
- Hi 👋, I'm Aishwarya K P  
- <br><br>
- <strong>Looking for opportunities as a Data Engineer</strong>
+  <strong><span style="font-size: 28px;">Hi 👋, I'm Aishwarya K P</span></strong>  
+  <br><br>
+  <strong><span style="font-size: 22px;">Looking for opportunities as a Data Engineer</span></strong>
 </p>
-
 
 🌱 I’m currently learning **PySpark, PostgreSQL**  
 
