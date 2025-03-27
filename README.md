@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 28px;">Hi 👋, I'm Aishwarya K P</span></strong>  
+  <strong><span style="font-size: 40px;">Hi 👋, I'm Aishwarya K P</span></strong>  
   <br><br>
   <strong><span style="font-size: 22px;">Looking for opportunities as a Data Engineer</span></strong>
 </p>
