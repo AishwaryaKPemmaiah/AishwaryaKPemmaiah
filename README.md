@@ -1,6 +1,7 @@
-<p align = "center">
- Hi 👋, I'm Aishwarya K P</b>
-**Looking for opportunities as a Data Engineer **
+<p align="center">
+ Hi 👋, I'm Aishwarya K P  
+ <br><br>
+ <strong>Looking for opportunities as a Data Engineer</strong>
 </p>
 
 _____________________________________________________________________________________________________________________________
