@@ -8,8 +8,6 @@
 
 📫 How to reach me: **aishwaryakpemmaiah@gmail.com**  
 
-
-
 ### 🌟 Technologies and Tools  
 
 <p align="center">
@@ -39,5 +37,29 @@
   </a>
   <a href="https://aws.amazon.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/BigQuery_Logo.svg" alt="BigQuery" width="50"/>
+  </a>
+  <a href="https://cloud.google.com/pubsub">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google-cloud-pubsub-logo.png" alt="Google Cloud Pub/Sub" width="50"/>
+  </a>
+  <a href="https://beam.apache.org/">
+    <img src="https://beam.apache.org/images/logos/beam-logo.png" alt="Apache Beam" width="50"/>
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache-kafka.svg" alt="Kafka" width="50"/>
+  </a>
+  <a href="https://cloud.google.com/logging">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud Logging" width="50"/>
+  </a>
+  <a href="https://airflow.apache.org/docs/apache-airflow/stable/howto/cloud.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="50"/>
+  </a>
+  <a href="https://www.terraform.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="50"/>
   </a>
 </p>
