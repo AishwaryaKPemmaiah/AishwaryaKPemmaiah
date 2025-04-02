@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
   </a>
   <a href="https://cloud.google.com/bigquery">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/BigQuery_Logo.svg" alt="BigQuery" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/BigQuery_Logo.png" alt="BigQuery" width="50"/>
   </a>
   <a href="https://cloud.google.com/pubsub">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google-cloud-pubsub-logo.png" alt="Google Cloud Pub/Sub" width="50"/>
