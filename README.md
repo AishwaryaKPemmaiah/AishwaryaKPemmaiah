@@ -5,9 +5,28 @@
 </p>
 
 
-🌱 I’m currently learning **PySpark, PostgreSQL**  
 
+
+🎯 Aspiring Data Engineer | Cloud & Big Data Enthusiast | MCA Graduate
+
+🔍 Focused on building scalable data solutions, cloud-based ETL pipelines, and integrating AI-powered analytics in modern enterprise systems.
 📫 How to reach me: **aishwaryakpemmaiah@gmail.com**  
+
+
+
+🌱 Currently Learning
+
+    Microsoft Azure Data Services (Azure Data Factory, Azure Storage, Azure Synapse)
+
+    ETL for Unstructured Data → Transforming into structured formats for ML/AI pipelines
+
+    GenAI & Large Language Models → Integration with cloud analytics
+
+    Power BI & Microsoft Power Suite for dynamic business visualizations
+
+    DevOps & Agile Methodologies (CI/CD pipelines, Agile ceremonies, Jira, Git)
+
+
 
 ### 🌟 Technologies and Tools  
 
@@ -64,3 +83,36 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="50"/>
   </a>
 </p>
+
+
+
+
+
+
+
+🔧 Technologies & Tools
+
+Languages:
+Python | SQL | Java
+
+Big Data & ETL:
+PySpark | Apache Airflow | Apache Beam | Azure Data Factory | Hadoop
+
+Cloud Platforms:
+Google Cloud Platform (GCP) | Microsoft Azure | AWS
+
+DevOps & Infra:
+Docker | Terraform | Linux | Git
+
+Databases & Storage:
+PostgreSQL | MySQL | BigQuery | Google Cloud Storage | Azure Blob Storage
+
+Data & Visualization Tools:
+Pandas | OpenCV | Looker Studio | Power BI | Excel | VS Code
+📫 How to reach me:
+
+    Email: aishwaryakpemmaiah@gmail.com
+
+    LinkedIn
+
+    GitHub
