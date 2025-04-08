@@ -16,15 +16,15 @@
 
 🌱 Currently Learning
 
-   Microsoft Azure Data Services (Azure Data Factory, Azure Storage, Azure Synapse)
-
-   ETL for Unstructured Data → Transforming into structured formats for ML/AI pipelines
-
-   GenAI & Large Language Models → Integration with cloud analytics
-
-   Power BI & Microsoft Power Suite for dynamic business visualizations
-   
-   DevOps & Agile Methodologies (CI/CD pipelines, Agile ceremonies, Jira, Git)
+      Microsoft Azure Data Services (Azure Data Factory, Azure Storage, Azure Synapse)
+  
+     ETL for Unstructured Data → Transforming into structured formats for ML/AI pipelines
+  
+     GenAI & Large Language Models → Integration with cloud analytics
+  
+     Power BI & Microsoft Power Suite for dynamic business visualizations
+     
+     DevOps & Agile Methodologies (CI/CD pipelines, Agile ceremonies, Jira, Git)
 
 
 
@@ -88,24 +88,24 @@
 
 
 🔧 Technologies & Tools
-
-Languages:
-Python | SQL | Java
-
-Big Data & ETL:
-PySpark | Apache Airflow | Apache Beam | Azure Data Factory | Hadoop
-
-Cloud Platforms:
-Google Cloud Platform (GCP) | Microsoft Azure | AWS
-
-DevOps & Infra:
-Docker | Terraform | Linux | Git
-
-Databases & Storage:
-PostgreSQL | MySQL | BigQuery | Google Cloud Storage | Azure Blob Storage
-
-Data & Visualization Tools:
-Pandas | OpenCV | Looker Studio | Power BI | Excel | VS Code
+    
+    Languages:
+    Python | SQL | Java
+    
+    Big Data & ETL:
+    PySpark | Apache Airflow | Apache Beam | Azure Data Factory | Hadoop
+    
+    Cloud Platforms:
+    Google Cloud Platform (GCP) | Microsoft Azure | AWS
+    
+    DevOps & Infra:
+    Docker | Terraform | Linux | Git
+    
+    Databases & Storage:
+    PostgreSQL | MySQL | BigQuery | Google Cloud Storage | Azure Blob Storage
+    
+    Data & Visualization Tools:
+    Pandas | OpenCV | Looker Studio | Power BI | Excel | VS Code
 
 📫 How to reach me:
 
