@@ -109,8 +109,8 @@
 
 📫 How to reach me:
 
- Email: aishwaryakpemmaiah@gmail.com
+Email       :  aishwaryakpemmaiah@gmail.com
 
-LinkedIn   :   https://www.linkedin.com/in/aishwaryakpemmaiah/
+LinkedIn    :   https://www.linkedin.com/in/aishwaryakpemmaiah/
 
-GitHub     :  https://github.com/AishwaryaKPemmaiah/
+GitHub      :   https://github.com/AishwaryaKPemmaiah/
