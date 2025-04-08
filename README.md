@@ -1,13 +1,13 @@
 <p align="center">
   <strong><span style="font-size: 40px;">Hi 👋, I'm Aishwarya K P</span></strong>  
   <br><br>
-  <strong><span style="font-size: 22px;">Looking for opportunities as a Data Engineer</span></strong>
+  <strong><span style="font-size: 22px;">🎯 Aspiring Data Engineer | Cloud & Big Data Enthusiast | MCA Graduate</span></strong>
 </p>
 
 
 
 
-🎯 Aspiring Data Engineer | Cloud & Big Data Enthusiast | MCA Graduate
+
 
 🔍 Focused on building scalable data solutions, cloud-based ETL pipelines, and integrating AI-powered analytics in modern enterprise systems.
 
