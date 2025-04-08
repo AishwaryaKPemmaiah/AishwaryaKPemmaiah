@@ -39,7 +39,7 @@
   <a href="https://aws.amazon.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/>
   </a>
-  <a href="https://cloud.google.com/bigquery">
+ <!-- <a href="https://cloud.google.com/bigquery">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/BigQuery_Logo.png" alt="BigQuery" width="50"/>
   </a>
   <a href="https://cloud.google.com/pubsub">
@@ -53,7 +53,7 @@
   </a>
   <a href="https://cloud.google.com/logging">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud Logging" width="50"/>
-  </a>
+  </a> -->
   <a href="https://airflow.apache.org/docs/apache-airflow/stable/howto/cloud.html">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Apache Airflow" width="50"/>
   </a>
