@@ -27,8 +27,7 @@
      DevOps & Agile Methodologies (CI/CD pipelines, Agile ceremonies, Jira, Git)
 
 
-
-### 🌟 Technologies and Tools  
+🔧 Technologies & Tools
 
 <p align="center">
   <a href="https://git-scm.com/">
@@ -87,7 +86,6 @@
 
 
 
-🔧 Technologies & Tools
     
     Languages:
     Python | SQL | Java
